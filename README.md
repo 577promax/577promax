@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-看起来啥也没有是不是。 😏
-<div align="center"> <img src=""> </div>
+浪潮已至，无处可躲。
