@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 浪潮已至，无处可躲。
+
+[![577promax](https://github-readme-stats.vercel.app/api?username=577promax)](https://github.com/anuraghazra/github-readme-stats)
