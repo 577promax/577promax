@@ -29,13 +29,4 @@ Here are some ideas to get you started:
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
-
-
-   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/React.png?raw=true" alt="" />
-
-  <!-- profile logo 个人资料徽标 -->
-
-<p><b>专注React学习</b></p>
-
-  [![577promax](https://github-readme-stats.vercel.app/api?username=577promax)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
